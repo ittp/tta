@@ -1,0 +1,3 @@
+views: 
+  global: [ id, status, organization, type, title, description ]
+  ogranization: [ id, key, shortname, addresses, tickets ]
